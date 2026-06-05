@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicmann657
-- 👀 I’m interested in ... Website / app development
+- 👀 I’m available for... Website Development / Automation & Manula Testing
 - 🌱 I’m currently learning ...  React
-- 💞️ I’m looking to collaborate on ... Website / app development
+- 💞️ I’m looking to collaborate on ... Website Development / Automation & Manula Testing
 - 📫 How to reach me ... Email --> ( nicmann657@gmail.com )
 - 😄 Pronouns: ... MALE (Mr)
 - ⚡ Fun fact: ... Coding is fun
